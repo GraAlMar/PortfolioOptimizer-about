@@ -29,6 +29,3 @@ PortfolioOptimizer is tailored for investors managing a US stock portfolio, offe
 
 - **Business Logic**: All business logic, including Sharpe ratio calculation and portfolio optimization, is handled on the backend. JUnit tests ensure the reliability of the logic.
 
-## Screenshots (To be added)
-
-Screenshots showcasing the interface and functionality will be added later for visual reference.
