@@ -1,4 +1,4 @@
-# PortfolioOptimizer-about
+## PortfolioOptimizer-about
 
 This application is the solo project required in the final module of the coding course at Codecool to become a Full Stack Developer.
 Among three ideas I had for this solo, I finally decided to pick up a financial topic.
